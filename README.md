@@ -19,6 +19,6 @@ Market Basket Analysis
 
 3.Discover top 10 association rules with higher lift
 
-<img width="694" alt="image" src="https://github.com/Carly-Yang/bigdata_one_Market-Basket-Analysis/assets/110595051/30406f52-82ba-49a7-8b78-c5619eed514f">
+<img width="710" alt="image" src="https://github.com/Carly-Yang/bigdata_one_Market-Basket-Analysis/assets/110595051/ed075829-1ed8-4f7c-988b-fcd040e32384">
 
 
